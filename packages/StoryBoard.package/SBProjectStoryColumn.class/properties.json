@@ -1,0 +1,17 @@
+{
+	"category" : "StoryBoard-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parent",
+		"activeStories",
+		"view",
+		"activeIterations" ],
+	"name" : "SBProjectStoryColumn",
+	"pools" : [
+		 ],
+	"super" : "DEComponent",
+	"type" : "normal" }

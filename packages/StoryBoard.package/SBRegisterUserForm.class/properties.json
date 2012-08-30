@@ -1,0 +1,14 @@
+{
+	"category" : "StoryBoard-Web-Public",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"editForm" ],
+	"name" : "SBRegisterUserForm",
+	"pools" : [
+		 ],
+	"super" : "DEComponent",
+	"type" : "normal" }

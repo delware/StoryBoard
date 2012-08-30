@@ -1,0 +1,14 @@
+{
+	"category" : "StoryBoard-Web-Announcement",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SBShowAdministration",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

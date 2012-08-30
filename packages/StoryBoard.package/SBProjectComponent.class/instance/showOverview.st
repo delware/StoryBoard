@@ -1,0 +1,3 @@
+navigation
+showOverview
+	self announce: SBShowProjectOverview

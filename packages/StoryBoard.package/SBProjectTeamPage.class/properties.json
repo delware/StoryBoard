@@ -1,0 +1,18 @@
+{
+	"category" : "StoryBoard-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"teamReport",
+		"invitationReport",
+		"searchPanel",
+		"results",
+		"resultsReport" ],
+	"name" : "SBProjectTeamPage",
+	"pools" : [
+		 ],
+	"super" : "SBProjectComponent",
+	"type" : "normal" }

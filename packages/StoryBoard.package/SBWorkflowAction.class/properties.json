@@ -1,0 +1,14 @@
+{
+	"category" : "StoryBoard-Data",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SBWorkflowAction",
+	"pools" : [
+		 ],
+	"super" : "DEGenericWorkflowAction",
+	"type" : "normal" }

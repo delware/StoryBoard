@@ -1,0 +1,15 @@
+{
+	"category" : "StoryBoard-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"projectReport",
+		"invitationReport" ],
+	"name" : "SBProjectOverview",
+	"pools" : [
+		 ],
+	"super" : "DEComponent",
+	"type" : "normal" }

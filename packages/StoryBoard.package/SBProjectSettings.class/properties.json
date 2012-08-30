@@ -1,0 +1,14 @@
+{
+	"category" : "StoryBoard-Data",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"views" ],
+	"name" : "SBProjectSettings",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

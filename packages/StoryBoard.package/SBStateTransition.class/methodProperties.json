@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"on:next:" : "DiegoLont 11/22/2010 13:40" },
+	"instance" : {
+		"actOn:context:" : "DiegoLont 3/12/2012 15:23",
+		"canDo:" : "DiegoLont 11/22/2010 13:34",
+		"initialize:next:" : "DiegoLont 11/22/2010 13:40",
+		"nextState" : "DiegoLont 11/22/2010 13:40",
+		"prevState" : "DiegoLont 11/22/2010 13:40",
+		"prevState:" : "DiegoLont 11/22/2010 13:40" } }

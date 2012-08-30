@@ -1,0 +1,14 @@
+{
+	"category" : "StoryBoard-Data",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SBAdministrator",
+	"pools" : [
+		 ],
+	"super" : "SBUser",
+	"type" : "normal" }

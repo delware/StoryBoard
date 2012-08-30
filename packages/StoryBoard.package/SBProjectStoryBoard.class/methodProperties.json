@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addStory" : "DiegoLont 8/26/2012 15:17",
+		"children" : "DiegoLont 11/23/2010 14:54",
+		"columns" : "DiegoLont 11/16/2010 15:41",
+		"createColumns" : "DiegoLont 12/9/2010 16:52",
+		"project:" : "DiegoLont 12/9/2010 16:58",
+		"projectSettings" : "DiegoLont 12/9/2010 16:51",
+		"removeView:" : "DiegoLont 12/9/2010 16:52",
+		"renderActionsOn:" : "DiegoLont 12/9/2010 16:31",
+		"renderAddStoryOn:" : "DiegoLont 8/26/2012 15:16",
+		"renderColumnActionsOn:" : "DiegoLont 3/12/2012 14:34",
+		"renderColumnContentOn:" : "DiegoLont 11/22/2010 11:17",
+		"renderColumnsOn:" : "DiegoLont 11/22/2010 11:17",
+		"renderContentOn:" : "DiegoLont 8/26/2012 15:43",
+		"renderProjectActionsOn:" : "DiegoLont 12/9/2010 16:29",
+		"showBacklog" : "StephanEggermont 12/9/2010 17:30",
+		"showCurrent" : "StephanEggermont 12/9/2010 17:30",
+		"showDone" : "StephanEggermont 12/9/2010 17:30",
+		"showIcebox" : "StephanEggermont 12/9/2010 17:30",
+		"states" : "DiegoLont 11/23/2010 14:54",
+		"storyName" : "DiegoLont 8/26/2012 15:17",
+		"storyName:" : "DiegoLont 8/26/2012 15:17",
+		"subject:" : "DiegoLont 11/16/2010 14:54",
+		"userviews" : "DiegoLont 3/12/2012 14:38" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "StoryBoard-Data",
+	"classinstvars" : [
+		"allStates" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"key",
+		"transitions",
+		"stateName" ],
+	"name" : "SBStoryState",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

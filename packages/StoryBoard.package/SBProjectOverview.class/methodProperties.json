@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptInvitation:" : "DiegoLont 11/23/2010 10:40",
+		"addProject" : "DiegoLont 8/26/2012 15:33",
+		"addProject:" : "DiegoLont 11/16/2010 14:32",
+		"createInvitationReport" : "DiegoLont 4/3/2012 15:58",
+		"createProjectReport" : "DiegoLont 4/3/2012 15:58",
+		"editTeam:" : "DiegoLont 8/26/2012 15:14",
+		"invitationReport" : "DiegoLont 11/23/2010 10:40",
+		"invitations" : "DiegoLont 11/23/2010 09:59",
+		"projectReport" : "DiegoLont 11/16/2010 14:30",
+		"projects" : "DiegoLont 11/16/2010 14:52",
+		"renderButtonsOn:" : "DiegoLont 8/26/2012 16:00",
+		"renderContentOn:" : "DiegoLont 11/23/2010 10:01",
+		"renderInvitationsOn:" : "DiegoLont 8/26/2012 15:34",
+		"renderProjectsOn:" : "DiegoLont 8/26/2012 16:00",
+		"showAdministration" : "DiegoLont 8/26/2012 15:34",
+		"showProject:" : "DiegoLont 8/26/2012 15:14",
+		"teamColumn" : "DiegoLont 8/26/2012 15:35" } }

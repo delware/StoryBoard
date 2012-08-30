@@ -1,0 +1,3 @@
+fields
+noCollectionTitle
+	^'Projects'

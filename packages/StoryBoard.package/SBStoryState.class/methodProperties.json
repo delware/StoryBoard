@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"actionsFor:" : "DiegoLont 11/22/2010 13:44",
+		"allKeys" : "DiegoLont 11/22/2010 16:31",
+		"allStates" : "DiegoLont 11/22/2010 13:46",
+		"createStateFor:" : "DiegoLont 8/26/2012 16:18",
+		"finalState" : "DiegoLont 3/21/2012 11:26",
+		"on:name:" : "DiegoLont 8/26/2012 16:18",
+		"reset" : "DiegoLont 11/22/2010 13:46",
+		"stateFor:" : "DiegoLont 11/22/2010 13:46",
+		"stateKeys" : "DiegoLont 11/22/2010 13:22" },
+	"instance" : {
+		"addTransition:" : "DiegoLont 11/22/2010 13:42",
+		"initialize:name:" : "DiegoLont 8/26/2012 15:50",
+		"key" : "DiegoLont 11/22/2010 13:13",
+		"stateName" : "DiegoLont 8/26/2012 15:50",
+		"transitions" : "DiegoLont 11/22/2010 13:26" } }

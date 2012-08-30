@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"on:" : "DiegoLont 11/23/2010 14:20" },
+	"instance" : {
+		"=" : "StephanEggermont 12/9/2010 17:22",
+		"actions" : "DiegoLont 11/23/2010 15:39",
+		"addAction:" : "DiegoLont 11/23/2010 15:39",
+		"canEdit" : "DiegoLont 3/27/2012 16:08",
+		"canEdit:" : "DiegoLont 3/27/2012 16:10",
+		"initialize:" : "DiegoLont 11/23/2010 14:21",
+		"iterationsAccessor" : "StephanEggermont 12/9/2010 19:28",
+		"iterationsAccessor:" : "StephanEggermont 12/9/2010 19:28",
+		"project" : "DiegoLont 11/23/2010 14:21",
+		"setStories:" : "StephanEggermont 12/9/2010 21:02",
+		"stories" : "DiegoLont 11/23/2010 14:24",
+		"storyAccessor" : "DiegoLont 11/23/2010 14:21",
+		"storyAccessor:" : "DiegoLont 11/23/2010 14:21",
+		"storySetter" : "DiegoLont 11/23/2010 15:00",
+		"storySetter:" : "DiegoLont 11/23/2010 15:00",
+		"title" : "DiegoLont 11/23/2010 14:21",
+		"title:" : "DiegoLont 11/23/2010 14:21" } }

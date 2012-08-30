@@ -1,0 +1,16 @@
+{
+	"category" : "StoryBoard-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"deleteAction",
+		"deleteButton",
+		"hasDelete" ],
+	"name" : "SBEditForm",
+	"pools" : [
+		 ],
+	"super" : "DEEditForm",
+	"type" : "normal" }

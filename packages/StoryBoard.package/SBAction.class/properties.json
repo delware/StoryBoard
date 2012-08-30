@@ -1,0 +1,15 @@
+{
+	"category" : "StoryBoard-Data",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"callback",
+		"label" ],
+	"name" : "SBAction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

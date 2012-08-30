@@ -1,0 +1,14 @@
+{
+	"category" : "StoryBoard-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SBUsersView",
+	"pools" : [
+		 ],
+	"super" : "DEComponent",
+	"type" : "normal" }

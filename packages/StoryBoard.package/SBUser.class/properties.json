@@ -1,0 +1,17 @@
+{
+	"category" : "StoryBoard-Data",
+	"classinstvars" : [
+		"users" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"email",
+		"initials",
+		"projects",
+		"invitations" ],
+	"name" : "SBUser",
+	"pools" : [
+		 ],
+	"super" : "DEUser",
+	"type" : "normal" }

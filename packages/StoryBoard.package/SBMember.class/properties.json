@@ -1,0 +1,15 @@
+{
+	"category" : "StoryBoard-Data",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"user",
+		"settings" ],
+	"name" : "SBMember",
+	"pools" : [
+		 ],
+	"super" : "DEDomainObject",
+	"type" : "normal" }

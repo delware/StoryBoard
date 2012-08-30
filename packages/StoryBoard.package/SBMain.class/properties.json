@@ -1,0 +1,15 @@
+{
+	"category" : "StoryBoard-Web-Public",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"loginForm",
+		"mainForm" ],
+	"name" : "SBMain",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

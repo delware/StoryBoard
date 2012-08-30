@@ -1,0 +1,15 @@
+{
+	"category" : "StoryBoard-Data",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"prevState",
+		"nextState" ],
+	"name" : "SBStateTransition",
+	"pools" : [
+		 ],
+	"super" : "DEWorkflowAction",
+	"type" : "normal" }

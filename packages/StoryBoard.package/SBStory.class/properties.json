@@ -1,0 +1,23 @@
+{
+	"category" : "StoryBoard-Data",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project",
+		"type",
+		"requester",
+		"owner",
+		"storySize",
+		"state",
+		"history",
+		"currentChange",
+		"storyName",
+		"description" ],
+	"name" : "SBStory",
+	"pools" : [
+		 ],
+	"super" : "DEDomainObject",
+	"type" : "normal" }

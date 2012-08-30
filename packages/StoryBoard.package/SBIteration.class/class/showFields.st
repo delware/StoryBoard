@@ -1,0 +1,3 @@
+fields
+showFields
+	^#(#summaryField)

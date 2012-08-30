@@ -1,0 +1,14 @@
+{
+	"category" : "StoryBoard-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SBHomePage",
+	"pools" : [
+		 ],
+	"super" : "DEPageChoice",
+	"type" : "normal" }

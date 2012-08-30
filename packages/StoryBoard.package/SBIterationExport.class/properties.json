@@ -1,0 +1,14 @@
+{
+	"category" : "StoryBoard-Data-Meta",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stories" ],
+	"name" : "SBIterationExport",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

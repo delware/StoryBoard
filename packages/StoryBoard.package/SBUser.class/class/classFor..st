@@ -1,0 +1,3 @@
+fields
+classFor: aSubject 
+	^self

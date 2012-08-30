@@ -1,0 +1,14 @@
+{
+	"category" : "StoryBoard-Web-Public",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SBPublicHome",
+	"pools" : [
+		 ],
+	"super" : "DEComponent",
+	"type" : "normal" }

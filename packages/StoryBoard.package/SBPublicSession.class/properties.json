@@ -1,0 +1,14 @@
+{
+	"category" : "StoryBoard-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SBPublicSession",
+	"pools" : [
+		 ],
+	"super" : "DESession",
+	"type" : "normal" }

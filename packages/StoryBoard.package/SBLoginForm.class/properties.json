@@ -1,0 +1,14 @@
+{
+	"category" : "StoryBoard-Web-Public",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SBLoginForm",
+	"pools" : [
+		 ],
+	"super" : "DELoginForm",
+	"type" : "normal" }

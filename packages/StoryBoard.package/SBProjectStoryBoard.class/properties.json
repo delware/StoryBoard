@@ -1,0 +1,16 @@
+{
+	"category" : "StoryBoard-Web",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"columns",
+		"editForm",
+		"storyName" ],
+	"name" : "SBProjectStoryBoard",
+	"pools" : [
+		 ],
+	"super" : "SBProjectComponent",
+	"type" : "normal" }

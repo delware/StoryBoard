@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfStoryBoard",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DiegoLont 8/30/2012 12:02",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfStoryBoard",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

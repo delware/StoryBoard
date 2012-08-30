@@ -1,0 +1,3 @@
+initialization
+clear
+	members := nil

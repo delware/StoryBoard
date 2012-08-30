@@ -1,0 +1,20 @@
+{
+	"category" : "StoryBoard-Data-Meta",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project",
+		"title",
+		"iterationsAccessor",
+		"storyAccessor",
+		"storySetter",
+		"actions",
+		"canEdit" ],
+	"name" : "SBProjectView",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

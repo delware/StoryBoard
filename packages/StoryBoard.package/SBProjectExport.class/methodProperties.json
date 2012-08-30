@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"canExport" : "DiegoLont 8/26/2012 12:50",
+		"load:" : "DiegoLont 11/23/2010 19:55",
+		"on:" : "DiegoLont 11/23/2010 19:57" },
+	"instance" : {
+		"addBacklog:" : "DiegoLont 11/23/2010 20:02",
+		"addIteration:" : "DiegoLont 11/23/2010 19:15",
+		"addStory:" : "DiegoLont 11/23/2010 19:10",
+		"backlog" : "DiegoLont 11/23/2010 20:01",
+		"backlog:" : "DiegoLont 11/23/2010 20:01",
+		"initialize:" : "DiegoLont 11/23/2010 20:02",
+		"iterations" : "DiegoLont 11/23/2010 19:58",
+		"iterations:" : "DiegoLont 11/23/2010 19:11",
+		"stories" : "DiegoLont 11/23/2010 19:11",
+		"stories:" : "DiegoLont 11/23/2010 19:11" } }

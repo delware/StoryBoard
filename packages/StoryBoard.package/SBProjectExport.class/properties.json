@@ -1,0 +1,16 @@
+{
+	"category" : "StoryBoard-Data-Meta",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stories",
+		"backlog",
+		"iterations" ],
+	"name" : "SBProjectExport",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

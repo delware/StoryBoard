@@ -1,0 +1,22 @@
+{
+	"category" : "StoryBoard-Data",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"created",
+		"stories",
+		"backlog",
+		"velocity",
+		"iterations",
+		"currentIteration",
+		"members",
+		"invitations",
+		"projectName" ],
+	"name" : "SBProject",
+	"pools" : [
+		 ],
+	"super" : "DEDomainObject",
+	"type" : "normal" }
