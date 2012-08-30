@@ -5,11 +5,10 @@ baseline010: spec
 	spec for: #common do: [
 		spec blessing: #'development'.
 		spec description: '- first uploaded version'.
-		spec project: 'Deltawerken' with: [ 
+		spec baseline: 'Deltawerken' with: [ 
 			spec 
-				className: 'ConfigurationOfDeltawerken';
-				versionString: #'development';
-				loads: #( 'Seaside' ) ].
+				loads: #( 'Seaside' );
+				repository:  'github://delware/Deltawerken:Master'].
 		spec
 			package: 'StoryBoard' with: [ spec requires: #( 'Deltawerken' ) ];
 			group: 'default' with: #('Core' );
